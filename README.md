@@ -1,20 +1,15 @@
-# PDFLines Web (Public Overview)
+# PDFLines
 
-This is a public overview of the **PDFLines web application**.  
-The full production source code is private, but this repository contains:
+[PDFLines](https://www.pdflines.com) is a free set of PDF tools. You can use them without an account.
 
-- Public assets (logos, icons)
-- Architecture overview
-- Deployment notes
-- Feature roadmap
-- Issue tracking
+JPG and PNG to PDF run in the browser. The other tools upload files to PDFLines servers. PDF to Word uses Adobe PDF Services, and scanned pages are read with OCR.
 
-## 🔗 Website
-https://www.pdflines.com
+Uploaded files are deleted after processing. Output files are kept for about 1 hour. Backup copies are removed within 2 hours. Download links expire after 15 minutes.
 
-## ❗ Why this repo exists
-GitHub organizations with no public repositories may be flagged as spam.  
-This repository provides transparency and describes the project without exposing private source code.
+Google Analytics loads only after you accept it. PDFLines does not show ads.
 
-## 📜 License
-MIT
+## This repository
+
+This repository contains this README and the MIT license. The website source is private.
+
+Use the tools at [pdflines.com](https://www.pdflines.com).
